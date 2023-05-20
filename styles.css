@@ -4,16 +4,8 @@
 body {
     font-family: Arial, sans-serif;
 }
-
-h2,
-
-table {
-    margin: 0 auto;
-    border-collapse: collapse;
-    font-size: 30px;
-}
-th,
-td {
+.table th,
+.table td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
