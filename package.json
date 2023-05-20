@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AlexTheProgrammer/macro-cheatsheet#readme",
   "dependencies": {
     "firebase": "^9.22.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
   }
 }
